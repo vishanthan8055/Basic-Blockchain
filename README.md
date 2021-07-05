@@ -23,3 +23,5 @@ In GET type http://127.0.0.1:5000/is_valid
 Refer this Picture for Best Understanding
 
 ![Screenshot 2021-07-05 143916](https://user-images.githubusercontent.com/86905030/124447280-d602a180-dd9e-11eb-99a6-86e014afbe9e.jpg)
+
+Mined Blocks<--(Our BlockChain)-->
