@@ -12,8 +12,7 @@ Steps to Use:
 
 4.Go to postman and Type 
 
-5.
-To mine a block...
+5.To mine a block...
 In GET type http://127.0.0.1:5000/mine_block
 To get chain...
 In GET type http://127.0.0.1:5000/get_chain
